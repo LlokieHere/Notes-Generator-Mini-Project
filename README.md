@@ -16,22 +16,6 @@ A desktop application that transforms your raw notes into structured study mater
 - PySide6 (Qt for Python)
 - Groq API (LLaMA 3.3 70B)
 
-## 📁 Project Structure
-
-notes_generator/
-│
-├── ui/
-│   ├── LOGO.png
-│   └── main_window.ui
-│
-├── ui_py/
-│   ├── __init__.py
-│   └── main_window.py
-│
-├── .env.example
-├── .gitignore
-└── main.py
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
